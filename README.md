@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./docs/assets/github-header-solana-improvement-documents.png" alt="Solana Improvement Documents - Solana protocol proposal documents" width="100%" />
+</p>
+
 # Solana Improvement Documents (SIMDs)
 
 The goal of the SIMD project is to standardize and provide high-quality
