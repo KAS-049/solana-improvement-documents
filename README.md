@@ -52,3 +52,7 @@ The SIMD repository has three levels of access, as detailed in
 
 To request access or report misuse, please follow the procedures outlined in
 SIMD-0007.
+
+<p align="center">
+  <img src="./docs/assets/github-footer-parad0xlabs.png" alt="NULL - Parad0xLabs open source systems" width="100%" />
+</p>
